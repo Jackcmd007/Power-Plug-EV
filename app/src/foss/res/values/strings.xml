@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="donations_info" formatted="false">Thank you for using PowerPark.</string>
+    <string name="donate_paypal">Give us a feedback</string>
+    <string name="data_sources_hint">Map data in the app is provided by OpenStreetMap (Mapbox).</string>
+</resources>
