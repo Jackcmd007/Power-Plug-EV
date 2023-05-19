@@ -1,14 +1,7 @@
-EVMap [![Build Status](https://github.com/ev-map/EVMap/actions/workflows/tests.yml/badge.svg)](https://github.com/ev-map/EVMap/actions)
-=====
+Power Plug
 
-<img src="https://raw.githubusercontent.com/ev-map/EVMap/master/_img/feature_graphic.svg" width=700 alt="Logo"/>
-
-Android app to find electric vehicle charging stations.
-
-<a href="https://play.google.com/store/apps/details?id=net.vonforst.evmap" target="_blank">
-<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="100"/></a>
-<a href="https://f-droid.org/repository/browse/?fdid=net.vonforst.evmap" target="_blank">
-<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="100"/></a>
+ 
+Android app to find electric vehicle charging stations. 
 
 Features
 --------
@@ -50,15 +43,8 @@ There are three different build flavors, `googleNormal`, `fossNormal` and `googl
     - `googleAutomotive` variant is intended to be installed directly on car infotainment systems
       using the Google-flavored Android Automotive OS. It does not provide the usual smartphone UI.
 
-We also have a special [documentation page](doc/android_auto.md) on how to test the Android Auto
-app.
+ 
 
 Translations
 ------------
-
-You can use our [Weblate page](https://hosted.weblate.org/projects/evmap/) to help translate EVMap
-into new languages.
-
-<a href="https://hosted.weblate.org/engage/evmap/">
-<img src="https://hosted.weblate.org/widgets/evmap/-/open-graph.png" width="500" alt="Translation status" />
-</a>
+ 
