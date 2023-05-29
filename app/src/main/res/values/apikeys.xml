@@ -1,0 +1,21 @@
+<resources>
+   <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCtvozcwJreo1EP0l_YwTAOMT7uSVM2IIw </string>
+
+   <string name="mapbox_key" translatable="false">pk.eyJ1IjoianVzdGluamFjIiwiYSI6ImNsaG93ZmE0NjAxOHMza284bjF1cWRvZWcifQ.GX7ubnfat85O9iLDA7wiXQ
+   </string>
+
+   <string name="goingelectric_key" translatable="false">
+      insert your GoingElectric key here
+   </string>
+
+   <string name="chargeprice_key" translatable="false">
+      insert your Chargeprice key here
+   </string>
+
+   <string name="openchargemap_key" translatable="false"> f5645d4e-4df1-441a-ac2f-1a9cbfa7a7bb </string>
+
+   <string name="fronyx_key" translatable="false">
+      insert your Fronyx key here
+   </string>
+
+</resources>
